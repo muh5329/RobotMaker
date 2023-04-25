@@ -3,8 +3,8 @@ Make your own robot website
 
 # Setup
 
-npm install
-npm run dev
+<p> npm install </P>
+<p> npm run dev </p>
 
 
 <h1>Generate Tailwind config file</h1>
